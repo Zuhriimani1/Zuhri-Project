@@ -1,0 +1,5 @@
+{
+  "name": "PsikoTest Pro",
+  "description": "An online psychometric testing system for modern recruitment processes. It features various tests, including personality, logic, and numerical assessments, and generates a comprehensive report for each candidate.",
+  "requestFramePermissions": []
+}
